@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pdf
+orcamento_*.csv
+!orcamento_cliente_exemplo.csv
